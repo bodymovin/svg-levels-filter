@@ -27,4 +27,4 @@ var svgFilter = levelsInstance.compose();
 ### Methods  
 
 * setLevelValues: accepts an object with one or more of the level properties
-* compose: returns an object with the level properties
+* compose: returns the created filter
